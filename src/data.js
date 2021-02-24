@@ -3,7 +3,7 @@ export default[
         id:1,
         name:'Rishab Pandey',
         age:24,
-        image:'https://compote.slate.com/images/fd268400-c348-4021-82bb-3d0a1962e257.jpg?width=840'
+        image:'https://scontent.fpnq2-1.fna.fbcdn.net/v/t1.0-9/148069499_3874815612582213_6289137136173930247_o.jpg?_nc_cat=102&ccb=3&_nc_sid=09cbfe&_nc_ohc=p8wdqQjxH64AX_5wKki&_nc_ht=scontent.fpnq2-1.fna&oh=b000a4b306a3422d64c89f229cf4d978&oe=605C301F'
     },
     {
         id:2,
